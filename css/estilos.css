@@ -1,0 +1,26 @@
+body
+{
+	text-align: center;
+	font-family: "sherif";
+	color: #4e4647;
+}
+.container{
+	width: 700px;
+	border-style: solid;
+	margin: 0 auto;
+}
+.cabecera{
+	padding: 5px;
+	text-align: center;
+	background-color: black;
+	color: white; 
+	font-weight:bold;
+	font-size: 20px;
+}
+.footer{
+	padding: 5px;
+	text-align: center;
+	color: white;
+	background-color: #676767;
+	font-weight: bold;
+}
